@@ -2,7 +2,7 @@
 
 [Dépôt git ressources](https://github.com/FireToak/bts-sio-presentation-github-action)
 
-![Logo GitHub Pages](https://github.com/FireToak/bts-sio-presentation-github-action/images/logo_github-pages.png)
+![Logo GitHub Pages](https://raw.githubusercontent.com/FireToak/bts-sio-presentation-github-action/main/images/logo_github-pages.png)
 
 ---
 ## Informations générales
