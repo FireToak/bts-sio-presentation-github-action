@@ -1,4 +1,4 @@
-# 📘 Documentation Technique : GitHub Pages pour BTS SIO
+# Documentation Technique : GitHub Pages pour BTS SIO
 
 Dépôt de ressources documentaires. Ce projet a pour but de fournir une procédure claire et standardisée aux étudiants de **BTS SIO** (Services Informatiques aux Organisations) pour la mise en ligne de leurs projets web via **GitHub Pages**.
 
